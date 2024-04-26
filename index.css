@@ -29,7 +29,6 @@
 .box-image {
     max-width: 80%;
     max-height: 80%;
-    border: 2px solid white;
 }
   
 .gallery {
@@ -41,6 +40,7 @@
 .gallery__item {
     display: inline-block;
     margin: 10px;
+    transform: scale(1.03);
 }
   
 .gallery__link {
